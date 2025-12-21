@@ -237,8 +237,61 @@ This repository is ideal for:
 
 
 
-What are possible treatment for this patient ?
-Suggest treatment plan for getting patient treated in USA Newyork.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
