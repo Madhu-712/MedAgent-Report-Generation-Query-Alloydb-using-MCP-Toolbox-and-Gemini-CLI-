@@ -228,9 +228,12 @@ This repository is ideal for:
 
 ---
 
+# References
+https://codelabs.developers.google.com/search-app-with-geminicli
 
+https://codelabs.developers.google.com/genai-toolbox-for-alloydb
 
-
+https://codelabs.developers.google.com/mcp-toolbox-bigquery-dataset
 
 
 
