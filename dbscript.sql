@@ -10,7 +10,7 @@ CREATE TABLE patientsinfo (
     PhoneNumber VARCHAR(20),
     Email VARCHAR(100),
     MedicalHistory TEXT,
-    Diagnois VARCHAR(255),
+    diagnosis VARCHAR(255),
     SurgicalIntrevention TEXT
 );
 
@@ -18,7 +18,7 @@ CREATE TABLE patientsinfo (
 
 
 
-INSERT INTO patientsinfo(patient_id, FirstName, LastName, DateOfBirth, Gender, Address, PhoneNumber, Email, MedicalHistory, Diagnois, SurgicalIntrevention)VALUES
+INSERT INTO patientsinfo(patient_id, FirstName, LastName, DateOfBirth, Gender, Address, PhoneNumber, Email, MedicalHistory, diagnosis, SurgicalIntrevention)VALUES
 (12345, 'John', 'Doe', '1990-05-15', 'Male', '123 Main St', '555-123','joe.doe1990@abc.com','Bloodpressure and diabetes','leukomia Cancer','surgicaloncology'),
 (23996, 'Jane', 'Smith', '1985-08-22', 'Female', '456 Elm St', '555-444','jane.smith@fds.com','Hay fever and atopic dermatatis','Wheezing and pulminory disorders','none'),
 (34567, 'Michael', 'Johnson', '1978-03-10', 'Male', '789 Oak St', '555-789','michael.johnson@sdf.com','Fever,cough,lung disease,swallowing difficulties','Aspiration pneumonia','none'),
